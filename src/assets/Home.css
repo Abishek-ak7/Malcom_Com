@@ -1,0 +1,12 @@
+/* styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.Home {
+    @apply bg-[url('./images/Malcom.png')] bg-cover h-screen ;
+    
+   
+  }
+  
