@@ -5,8 +5,6 @@
 
 /* Custom styles */
 .Home {
-    @apply bg-[url('./images/Malcom.png')] bg-cover h-screen ;
-    
-   
-  }
-  
+  background: #000;
+  @apply bg-[url('./images/Group142.png')] bg-cover bg-center w-full h-screen;
+}
