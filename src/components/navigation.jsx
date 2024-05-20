@@ -8,11 +8,10 @@ function Navigation() {
 
         <h1 className="ak  text-white font-extrabold font-serif">MALCOM COMPANY</h1>
         <div className="flex mx-auto space-x-4  font-roboto text-sm">
-          <a href="" className="hover:text-purple-300 text-purple-400 hover:underline hover:underline-offset-4 decoration-purple-700 decoration-solid font-bold b-2">Product</a>
-          <a href="" className=" hover:text-purple-300 text-purple-400 hover:underline hover:underline-offset-4 decoration-purple-700 decoration-solid b-2">Services</a>
-          <a href="" className=" hover:text-purple-300 text-purple-400 hover:underline hover:underline-offset-4 decoration-purple-700 decoration-solid b-2">Careers</a>
-          <a href="" className="hover:text-purple-300 text-purple-400 hover:underline hover:underline-offset-4 decoration-purple-700 decoration-solid b-2">About</a>
-          <a href="" className="hover:text-purple-300 text-purple-400 hover:underline hover:underline-offset-4 decoration-purple-700 decoration-solid b-2">Invest Us</a>
+          <a href="" className="hover:text-purple-300 text-purple-400 text-base hover:underline hover:underline-offset-4 decoration-purple-700 decoration-solid font-bold b-2">Product</a>
+          <a href="" className=" hover:text-purple-300 text-purple-400  text-base hover:underline hover:underline-offset-4 decoration-purple-700 decoration-solid b-2">Services</a>
+          <a href="" className=" hover:text-purple-300 text-purple-400 text-base hover:underline hover:underline-offset-4 decoration-purple-700 decoration-solid b-2">Careers</a>
+          <a href="" className="hover:text-purple-300 text-purple-400 text-base hover:underline hover:underline-offset-4 decoration-purple-700 decoration-solid b-2">About</a>
 
         </div>
         <div className="flex space-x-6">
