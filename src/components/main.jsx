@@ -1,12 +1,17 @@
+import React from 'react';
+import Home from './Home';
+import About from './About'
 
-function main (){
+
+
+function Main() {
     return(
-        <div>
-            <h1 className="font-hustle ">MALCOM COMPANY</h1>
-            <h2>Welcome to the world</h2>
+        <div className='bg-black'>
+            <Home />
+            <About />
         </div>
     );
 
 
 }
-export default main;
+export default Main;
