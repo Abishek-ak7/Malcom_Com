@@ -1,11 +1,16 @@
 import './App.css';
-import Home from './components/home';
+import About from './components/About';
+import Home from './components/Home';
+import Main from './components/main';
 import Navigation from './components/navigation';
+
+
 
 function App() {
   return (
     <div className="App">
-      <Home/>
+      
+      <Main />
     
     </div>
   );
@@ -13,3 +18,5 @@ function App() {
 }
 
 export default App;
+
+
