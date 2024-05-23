@@ -14,7 +14,9 @@ module.exports = {
         'roboto':['Roboto Medium','sans-serif'],
         'readya':['Redeye Serif W00 Bold','mono'],
         'karatina':['Karantina-Regular','sans-serif'],
-        'Mr':['Mr Bold','serif']
+        'Mr':['Mr Bold','sans-serif'],
+        'Arial':['ARIAL','mono'],
+        
       },
     },
   },
