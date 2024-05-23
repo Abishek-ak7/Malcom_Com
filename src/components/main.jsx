@@ -1,6 +1,7 @@
 import React from 'react';
 import Home from './Home';
-import About from './About'
+import About from './About';
+import Services from './Services';
 
 
 
@@ -9,6 +10,7 @@ function Main() {
         <div className='bg-black'>
             <Home />
             <About />
+            <Services />
         </div>
     );
 
