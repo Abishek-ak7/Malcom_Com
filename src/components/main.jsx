@@ -8,9 +8,9 @@ import Services from './Services';
 function Main() {
     return(
         <div className='bg-black'>
-            {/* <Home />
-            <About /> */}
-            <Services />
+            <Home />
+            <About />
+            {/* <Services /> */}
         </div>
     );
 
